@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pokelab_api.props" />
+</Project>
