@@ -140,3 +140,4 @@ C:\Users\huert\Documents\Code\backPokeLab\pokelab_api\pokelab_api\obj\Debug\net8
 C:\Users\huert\Documents\Code\backPokeLab\pokelab_api\pokelab_api\obj\Debug\net8.0\pokelab_api.pdb
 C:\Users\huert\Documents\Code\backPokeLab\pokelab_api\pokelab_api\obj\Debug\net8.0\pokelab_api.genruntimeconfig.cache
 C:\Users\huert\Documents\Code\backPokeLab\pokelab_api\pokelab_api\obj\Debug\net8.0\ref\pokelab_api.dll
+C:\Users\huert\Documents\Code\backPokeLab\pokelab_api\pokelab_api\obj\Debug\net8.0\pokelab_api.sourcelink.json
